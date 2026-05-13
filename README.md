@@ -11,7 +11,7 @@
 
 ## 2. Normative Modelling
 
-- **R** v4.2.0 — https://www.r-project.org
+- **R** v4.4.1 — https://www.r-project.org
 - **mgcv (GAMM)** — https://cran.r-project.org/web/packages/mgcv/index.html
 
 ## 3. Code
